@@ -16,4 +16,5 @@ An offline translator which helps you to translate your text file easily and in 
 - In [3]: translation = translator.translate("This is a pen.")
 - Out [3]: 这是一支笔
         
-        Visit this page anf choose your own language to translate into.Follow iso 6391.
+        Visit this page and choose your own language to translate into.
+        Follow iso 6391.
